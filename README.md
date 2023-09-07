@@ -1,4 +1,4 @@
-# Cyclistice_GoogleCapstoneProject
+# Cyclistic_GoogleCapstoneProject
 **Project Overview**
 
 **Project Objective:** To analyze Cyclistic's bike rental data and gain insights into user behavior, differentiating between annual members and casual riders, and to provide recommendations for optimizing membership and ridership.
