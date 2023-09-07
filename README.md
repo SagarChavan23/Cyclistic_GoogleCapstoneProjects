@@ -16,11 +16,13 @@ Report Creation: This report summarizes the entire analysis process, including t
 
 **Data Cleaning and Preparation**
 
-Data Compilation and Cleaning (SQL Code)
+Data Compilation and Cleaning [(SQL Code)](duration.sql)
+
 The following SQL code snippet provides details of the data compilation and cleaning process:
 
-sql code:
+sql code: [Query1](singleQuery.sql), [Query2](station.sql), [Query3](columns_check.sql)
 The data cleaning process includes rounding ride length values, creating a readable "month" column, removing rows with NA values, duplicates, negative or zero ride length values, and unnecessary columns.
+
 
 **Data Visualizations**
 User Type Distribution
