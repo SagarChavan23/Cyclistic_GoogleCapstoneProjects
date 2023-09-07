@@ -7,7 +7,8 @@
 
 **Project Steps**
 Data Collection: The project began with the collection of historical trip data from Cyclistic's bike-sharing program. The dataset was stored in Google Cloud Storage (GCS) for further processing.
-Data Compilation and Cleaning (SQL): The data was imported into BigQuery for manipulation and analysis using SQL. The data was cleaned, and missing values were handled. Duplicate rows and records with negative or zero ride duration values were removed. Additionally, consistent data types were enforced.
+Data [Compilation](Uncleaned_data_compilation.sql)
+ and Cleaning (SQL): The data was imported into BigQuery for manipulation and analysis using SQL. The data was cleaned, and missing values were handled. Duplicate rows and records with negative or zero ride duration values were removed. Additionally, consistent data types were enforced.
 
 Data Visualization (Tableau): The cleaned data was imported into Tableau for visualization and analysis. A variety of visualizations were created to understand user behavior, including user type distribution, total rides by bike type, ride length by weekday, total rides by weekday, total rides by hour, and total rides by month.
 Dashboard Design (Tableau): To effectively communicate the insights, a well-designed Tableau dashboard was created. The dashboard included interactive visualizations, annotations, and design elements to enhance clarity and aesthetics.
