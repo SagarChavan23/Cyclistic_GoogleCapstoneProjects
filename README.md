@@ -27,39 +27,43 @@ The data cleaning process includes rounding ride length values, creating a reada
 **Data Visualizations**
 User Type Distribution
 
+Total Number of Ride Share
+
 Insights:
 
 Annual members make up the majority of users, representing 58.6% of total rides.
 Casual riders account for 41.4% of total rides.
-Total Rides by Bike Type
-Total Rides by Bike Type
+
+
+ [Total Rides by Bike Type](pie_chart.PNG)
 
 Insights:
 
 The majority of rides are taken on standard bikes, followed by electric bikes and dockless bikes.
-Ride Length by Weekday
-Ride Length by Weekday
+
+[Ride Length by Weekday ](line_chart_1.PNG)
 
 Insights:
 
 Casual riders have longer average ride durations compared to annual members.
 Both user types experience longer rides on weekends.
-Total Rides by Weekday
-Total Rides by Weekday
+
+ [Total Rides by Weekday](line_chart_2.PNG)
 
 Insights:
 
 Casual riders tend to use the service more on weekends than weekdays.
 Weekday usage by casual riders is approximately 50% lower compared to weekends.
-Total Rides by Hour
-Total Rides by Hour
+
+ [Total Rides by Hour](distance_duration_bargraph.PNG) [Hourly distribution of number of rides](HourComparison_bargraph.PNG)
 
 Insights:
 
 Casual riders' proportion increases during non-commuting hours, indicating leisurely use.
 Annual members dominate peak commuting hours.
-Total Rides by Month (Seasonality)
-Total Rides by Month
+
+ [Total Rides by Month (Seasonality)](season_bargraph.PNG.PNG)
+
 
 Insights:
 
@@ -67,9 +71,8 @@ Casual riders' proportion drops during winter months but peaks in the summer.
 Winter months see a decrease in casual ridership, while summer months show increased usage.
 The Tableau dashboard design is detailed below, highlighting the key elements and visualizations:
 
-**Tableau Dashboard**
+**Tableau Dashboard Highlights**
 
-Dashboard Highlights:
 
 User Type Distribution
 Total Rides by Bike Type
@@ -77,6 +80,7 @@ Ride Length by Weekday
 Total Rides by Weekday
 Total Rides by Hour
 Total Rides by Month
+
 **Conclusion**
 
 The analysis of Cyclistic's bike rental data reveals valuable insights into user behavior. Key findings include:
